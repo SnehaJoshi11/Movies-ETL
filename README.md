@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-The Amazing Prime, a video streaming company, decided to sponsor a *hackathon*, where participants trying to predict which low budget movies being released will become popular. Participants of a hackathon need a clean data in order to perform analyses for their algorithms. In order to provide organized and clean dataset, this project focuses on *ETL** or **Extract, Transform and Load** process.
+The Amazing Prime, a video streaming company, decided to sponsor a *hackathon*, where participants trying to predict which low budget movies being released will become popular. Participants of a hackathon need a clean data in order to perform analyses for their algorithms. In order to provide organized and clean dataset, this project focuses on **ETL** or **Extract, Transform and Load** process.
 
 
 ## ETL
@@ -25,7 +25,7 @@ The purpose of this project is to gather movie data from both wikipedia and kagg
 
   - Jupyter Notebook
   - Python 3.7.6
-      - Dependencies
+    - Dependencies
       - Python Pandas library
       - Python Numpy library
       - Python MatPlotLib library
