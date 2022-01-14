@@ -30,9 +30,9 @@ The purpose of this project is to gather movie data from both wikipedia and kagg
       - Python Numpy library
       - Python MatPlotLib library
       - Python json library
-    -	Pytho re library
-    -	sqlalchemy library , create_engine
-    -	psycopg2 library
+      -	Python re library
+      -	sqlalchemy library 
+      -	psycopg2 library
 
   - PostgreSQL and PgAdmin
 
