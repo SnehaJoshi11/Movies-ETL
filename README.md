@@ -20,7 +20,7 @@ The purpose of this project is to gather movie data from both wikipedia and kagg
 
   - Data Sources: 
 
-    -	Wikipedia web scrape [JSON file](Data/wikipedia-movies.json)
+    -	Wikipedia web scrape [JSON file](Resources/wikipedia-movies.json)
     -	Kaggle data from [Kaggle.com](https://www.kaggle.com/rounakbanik/the-movies-dataset) -two files: movies_metadata.csv and ratings.csv
 
   - Jupyter Notebook
